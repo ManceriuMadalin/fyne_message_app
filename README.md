@@ -1,4 +1,4 @@
-#  💬Fyne Message App
+[#  💬Fyne Message App
 
 This is a desktop application written in Go using the [Fyne](https://fyne.io/) framework. It provides:
 
@@ -73,8 +73,8 @@ Run directly:
    ```
 Or build a binary:
 ```bat
-   go build -o fyne_app
-./fyne_app
+  go build -o fyne_app
+  ./fyne_app
    ```
 
 ## 📁Project Structure
@@ -92,3 +92,4 @@ It's recommended to use environment variables to configure your database connect
 ## ✍️ Author
 
 - Created with ❤️ by Manceriu Mădălin
+](url)

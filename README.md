@@ -1,4 +1,4 @@
-[#  💬Fyne Message App
+##  💬Fyne Message App
 
 This is a desktop application written in Go using the [Fyne](https://fyne.io/) framework. It provides:
 

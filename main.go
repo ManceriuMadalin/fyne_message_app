@@ -35,7 +35,7 @@ type FriendRequest struct {
 
 func main() {
 	var err error
-	db, err = sql.Open("mysql", "root:Madalin1908@tcp(127.0.0.1:3306)/user_auth")
+	db, err = sql.Open("mysql", "root:password@tcp(127.0.0.1:3306)/user_auth")
 	if err != nil {
 		log.Fatal("Eroare la deschiderea conexiunii:", err)
 	}

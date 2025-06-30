@@ -55,7 +55,8 @@ CREATE TABLE messages (
 
 > **Note:** In main.go, the database connection is defined like this:
 > db, err = sql.Open("mysql", "root:password@tcp(127.0.0.1:3306)/user_auth")
-> > **Important:** You should change the user and password to your own credentials, or use environment variables for security.
+
+>  **Important:** You should change the user and password to your own credentials, or use environment variables for security.
 
 ## 📥Install Dependencies
 

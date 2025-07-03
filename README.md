@@ -92,4 +92,3 @@ It's recommended to use environment variables to configure your database connect
 ## ✍️ Author
 
 - Created with ❤️ by Manceriu Mădălin
-](url)
